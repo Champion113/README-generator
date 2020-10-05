@@ -1,9 +1,9 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  👩‍💻## Description 
+  ## Description 
    ${data.description}
-   📝## Table of Content
+   ## Table of Content
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [License](#license)
@@ -12,7 +12,7 @@ function generateMarkdown(data) {
   6. [GitHub](#username)
   7. [Email](#email)
   ## Installation 
-   ${data.installation}
+   ${data.install}
   ## Usage 
    ${data.usage}
   ## License 
@@ -23,8 +23,8 @@ function generateMarkdown(data) {
   ## Tests
    ${data.tests}
   ## Username 
-  ${data.username} ![GitHub](http://github.com)
-  📧## Email 
+  ${data.username} 
+  ## Email 
   ${data.email} [Best way to Contact me] ${data.contact}
 `;
 
