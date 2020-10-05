@@ -1,7 +1,7 @@
 # README-generator
-  👩‍💻## Description 
+  ## Description 
    My first time creating a README using node 
-   📝## Table of Content
+  ## Table of Content
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [License](#license)
@@ -21,6 +21,6 @@
   ## Tests
    Using node index.js
   ## Username 
-  Champion113 ![GitHub](http://github.com)
-  📧## Email 
+  Champion113 
+  ## Email 
   sbalbright19@gmail.com [Best way to Contact me] email
