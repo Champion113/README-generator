@@ -3,6 +3,8 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ## Description 
    ${data.description}
+   ![Mockup](/images/logo.png)
+   Format: ![README](photo.png)
    ## Table of Content
   1. [Installation](#installation)
   2. [Usage](#usage)
