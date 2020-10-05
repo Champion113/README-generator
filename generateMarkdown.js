@@ -9,6 +9,7 @@ function generateMarkdown(data) {
   ## ${data.contributing}
   ## ${data.tests}
   ## ${data.username}
+  ![GitHub](http://github.com)
   ## ${data.email}
 `;
 
